@@ -1,2 +1,3 @@
 #ingorar los archivos de texto
-pruebagitignore.txt
+*.txt
+```

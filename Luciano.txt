@@ -1,4 +1,0 @@
-para probar como hacer merge y actualizar carpeta local
-
-Esta es mi linea de texto (luciano)
-Hola fer
